@@ -1,6 +1,6 @@
 ---
 fullname: Inès Hijazi
-role: Co-animatrice du programme beta.gouv.fr
+role: Co-animatrice du programme beta.gouv.fr - Responsable de la Brigade
 domaine: Animation
 link: https://twitter.com/hijazi_i
 missions:
@@ -14,12 +14,14 @@ missions:
     employer: dinum
 startups:
   - sante-psy-etudiant
+  - data-subvention
 previously:
   - eac
   - auvol
   - engagement-civique
   - culture_amateurs
   - e-inspé
+  - histologe
 badges:
   - segur
 ---
